@@ -5,8 +5,7 @@
 Savannah Tertulien
 
 #### Your section leader's name
-
-TODO
+Zhenyu Zhao
 
 #### Project title
 
